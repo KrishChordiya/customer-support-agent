@@ -1,0 +1,14 @@
+Data Privacy:
+NovaAI complies with GDPR, CCPA, and other international data protection regulations. Customer data is never sold to third parties.
+
+Data Retention:
+User data is retained for 30 days for troubleshooting and support purposes unless deletion is requested. Enterprise customers can request custom data retention policies.
+
+Data Deletion:
+Users may request data deletion from the NovaAI dashboard under Account Settings > Privacy. All associated data will be permanently deleted within 30 days.
+
+Security:
+All data is encrypted in transit using TLS 1.3 and at rest with AES-256 encryption. Our infrastructure undergoes annual penetration testing and SOC 2 audits.
+
+Account Deletion:
+When an account is deleted, all user data, billing history, and API keys are permanently erased. This action cannot be reversed.

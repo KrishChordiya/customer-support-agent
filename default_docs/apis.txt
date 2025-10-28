@@ -1,0 +1,35 @@
+NovaAI provides a REST API for developers to integrate AI services.
+
+Base URL:
+https://api.novaai.com/v1
+
+Authentication:
+All requests require an API key. Generate keys in the NovaAI dashboard under "API Keys".
+Include the key in the Authorization header:
+Authorization: Bearer YOUR_API_KEY
+
+Endpoints:
+1. /generate
+   - Method: POST
+   - Input: prompt, max_tokens
+   - Output: generated text
+
+2. /embeddings
+   - Method: POST
+   - Input: text
+   - Output: 768-dimensional vector embedding
+
+3. /search
+   - Method: POST
+   - Input: query, documents[]
+   - Output: ranked documents based on semantic similarity
+
+Rate Limits:
+- Starter Plan: 60 requests per minute
+- Pro Plan: 600 requests per minute
+- Enterprise: custom limits available
+
+Error Codes:
+- 401 Unauthorized: Missing or invalid API key
+- 429 Too Many Requests: Rate limit exceeded
+- 500 Internal Server Error: Service unavailable

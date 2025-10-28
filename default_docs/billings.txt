@@ -1,0 +1,14 @@
+Payment Methods:
+NovaAI accepts Visa, MasterCard, American Express, and PayPal. Enterprise customers may request invoicing with net-30 payment terms.
+
+Billing Cycle:
+All subscriptions are billed monthly at the beginning of the billing cycle. Enterprise customers may request annual billing.
+
+Refund Policy:
+Refunds are available only if requested within 7 days of the initial purchase and if usage does not exceed 10% of the allocated tokens. Refunds are processed back to the original payment method within 5-7 business days.
+
+Failed Payments:
+If a payment fails, the account will be placed on hold after 7 days. API access will be suspended until payment is resolved.
+
+Cancellation:
+Customers can cancel subscriptions anytime from the NovaAI dashboard. Accounts remain active until the end of the billing period.

@@ -1,0 +1,3 @@
+NovaAI is an artificial intelligence SaaS platform that provides developers, startups, and enterprises with advanced language models, embeddings, and semantic search capabilities.
+Our mission is to make powerful AI accessible through simple APIs, enabling teams to build chatbots, customer support automation, recommendation engines, and enterprise knowledge systems.
+Founded in 2023, NovaAI now powers over 1,000 businesses across e-commerce, healthcare, and financial services. Our platform offers industry-grade security, scalable infrastructure, and 24/7 support for enterprise customers.

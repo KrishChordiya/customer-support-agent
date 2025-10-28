@@ -1,0 +1,17 @@
+NovaAI provides multiple support channels for customers.
+
+Support Options:
+- Starter Plan: Community forum
+- Pro Plan: Email support with 24-hour SLA
+- Enterprise Plan: 24/7 dedicated support via phone, chat, and email
+
+Contact Information:
+- General inquiries: hello@novaai.com
+- Technical support: support@novaai.com
+- Billing issues: billing@novaai.com
+
+Escalations:
+Enterprise customers can request escalation for critical outages. A dedicated support engineer will respond within 1 hour.
+
+Account Assistance:
+To delete an account, navigate to Account Settings > Security > Delete Account. Note that all data and unused credits will be lost.
